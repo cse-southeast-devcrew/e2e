@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2020-03-20T21:46:23.338Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/82.0.4080.0 Safari/537.36 Edg/82.0.453.2" etag="mxKs9p3nIfm3N45n8BJQ" version="12.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-20T21:48:58.934Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/82.0.4080.0 Safari/537.36 Edg/82.0.453.2" etag="c-yItiDKp9jUTgL1Sd5e" version="12.8.8" type="github">
   <diagram id="R-13I4GzPsgyA8yoVRYu" name="Page-1">
     <mxGraphModel dx="2048" dy="1106" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="s2vYFGuACUGf_Ijs1Y7E-52" value="" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;shadow=1;glass=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="580" width="590" height="505" as="geometry" />
+        </mxCell>
+        <mxCell id="s2vYFGuACUGf_Ijs1Y7E-49" value="" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;glass=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="25" width="590" height="505" as="geometry" />
+        </mxCell>
         <mxCell id="s2vYFGuACUGf_Ijs1Y7E-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="s2vYFGuACUGf_Ijs1Y7E-2" target="s2vYFGuACUGf_Ijs1Y7E-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -143,6 +149,12 @@
         </mxCell>
         <mxCell id="s2vYFGuACUGf_Ijs1Y7E-2" value="Consumer&lt;br&gt;App" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/699297-icon-68-document-file-app-128.png" vertex="1" parent="1">
           <mxGeometry x="177" y="340" width="58" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="s2vYFGuACUGf_Ijs1Y7E-50" value="SUT" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=1;fontStyle=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="160" y="30" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="s2vYFGuACUGf_Ijs1Y7E-51" value="E2E" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=1;fontStyle=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="140" y="588" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
